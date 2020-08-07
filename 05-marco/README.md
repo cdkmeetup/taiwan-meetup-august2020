@@ -1,4 +1,4 @@
 # Building Real-time Monitoring and Alert Systems with Amazon CloudWatch and AWS CDK
 ## Introduction
-* [cloudwatch-alarm-demo](https://github.com/jialechan/cdk_cloudwatch_alarm_demo/tree/master/cloudwatch-alarm-demo): This is a simple example using cdk to deploy a vpc, alb, cloudwatch alarm, lambda. It demonstrates that when a 4XX error occurs in alb, cloudwatch will check in real time and send a notification to lambda, and lambda will notify slack through webhook .
+* [cloudwatch-alarm-demo](https://github.com/cdkmeetup/taiwan-meetup-august2020/tree/master/05-marco/cloudwatch-alarm-demo): This is a simple example using cdk to deploy a vpc, alb, cloudwatch alarm, lambda. It demonstrates that when a 4XX error occurs in alb, cloudwatch will check in real time and send a notification to lambda, and lambda will notify slack through webhook .
 * [cdk-elasticache-monitor](https://github.com/jialechan/cdk-elasticache-monitor): cdk-elasticache-monitor allows you to send email, sms, slack, or trigger aws lambda when an alarm occurs.
