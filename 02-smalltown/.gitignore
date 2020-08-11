@@ -1,0 +1,24 @@
+
+
+.jsii
+
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdktf.out
+
+tsconfig.json
+
+**/.vscode
+**/.DS_Store
+**/.gen
+**/*.log
+**/coverage
+**/dist
+**/imports
+**/.terraform
+terraform.tfstate*
